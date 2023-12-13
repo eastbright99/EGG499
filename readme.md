@@ -61,7 +61,7 @@ you can controll your rover with [keyboard](http://wiki.ros.org/teleop_twist_key
 [LIO-SAM](https://github.com/TixiaoShan/LIO-SAM)
 
 ### Quanergy M8
-* basic SDK
+* basic SDK  
 [quanergy_client](https://github.com/QuanergySystems/quanergy_client)  
 [quanergy_client_ros](https://github.com/QuanergySystems/quanergy_client_ros)  
 
