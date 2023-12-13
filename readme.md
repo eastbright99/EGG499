@@ -49,13 +49,9 @@ you can controll your rover with [keyboard](http://wiki.ros.org/teleop_twist_key
 * basic SDK  
 [Livox-SDK](https://github.com/Livox-SDK/Livox-SDK)  
 [livox_ros_driver](https://github.com/Livox-SDK/livox_ros_driver)  
-```
-```
 
 * mapping  
 [FAST_LIO](https://github.com/hku-mars/FAST_LIO)  
-```
-```
 
 ### Velodyne VLP-16
 * basic SDK  
@@ -72,8 +68,6 @@ you can controll your rover with [keyboard](http://wiki.ros.org/teleop_twist_key
 * basic SDK  
 [quanergy_client](https://github.com/QuanergySystems/quanergy_client)  
 [quanergy_client_ros](https://github.com/QuanergySystems/quanergy_client_ros)  
-```
-```
 
 * mapping  
 couldn't find
