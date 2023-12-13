@@ -36,7 +36,7 @@ after finishing Ubuntu installation, install [ROS Noetic](http://wiki.ros.org/no
 <br/><br/><br/>
 
 ## Rover Setup and Test
-Depending on RoverRobotics Setup Guide, fallow the instructions  
+Depending on RoverRobotics [Setup Guide](https://roverrobotics.com/pages/computer-setup-guide), fallow the instructions  
 
 after installation, it will automatically work after bootup  
 
@@ -46,10 +46,26 @@ you can controll your rover with ps4 and keyboard
 
 ## Lidar Setup and Test
 ### Livox MID-360
+base  
+Livox-SDK  
+livox_ros_driver  
+
+mapping  
+FAST_LIO  
 
 ### Velodyne VLP-16
+base  
+velodyne  
+
+mapping  
+LIO-SAM
 
 ### Quanergy M8
+base
+quanergy_client
+quanergy_client_ros
+
+couldn't find mapping
 
 <br/><br/><br/>
 
