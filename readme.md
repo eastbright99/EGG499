@@ -46,7 +46,7 @@ you can controll your rover with [keyboard](http://wiki.ros.org/teleop_twist_key
 
 ## Lidar Setup and Test
 ### Livox MID-360
-* basic setup  
+* basic SDK  
 [Livox-SDK](https://github.com/Livox-SDK/Livox-SDK)  
 [livox_ros_driver](https://github.com/Livox-SDK/livox_ros_driver)  
 
@@ -54,16 +54,16 @@ you can controll your rover with [keyboard](http://wiki.ros.org/teleop_twist_key
 [FAST_LIO](https://github.com/hku-mars/FAST_LIO)  
 
 ### Velodyne VLP-16
-* basic setup  
+* basic SDK  
 [velodyne](https://github.com/ros-drivers/velodyne)  
 
 * mapping  
 [LIO-SAM](https://github.com/TixiaoShan/LIO-SAM)
 
 ### Quanergy M8
-* basic setup
-[quanergy_client](https://github.com/QuanergySystems/quanergy_client)
-[quanergy_client_ros](https://github.com/QuanergySystems/quanergy_client_ros)
+* basic SDK
+[quanergy_client](https://github.com/QuanergySystems/quanergy_client)  
+[quanergy_client_ros](https://github.com/QuanergySystems/quanergy_client_ros)  
 
 * mapping
 couldn't find
@@ -76,9 +76,9 @@ couldn't find
 roslaunch depthai_examples stereo_inertial_node.launch  
 
 ### Intel RealSense D435if
-[realsense-ros](https://github.com/IntelRealSense/realsense-ros)
-roslaunch realsense2_camera rs_camera.launch filters:=pointcloud
-rviz -d pointcloud.rviz
+[realsense-ros](https://github.com/IntelRealSense/realsense-ros)  
+roslaunch realsense2_camera rs_camera.launch filters:=pointcloud  
+rviz -d pointcloud.rviz  
 
 
 <br/><br/><br/>
