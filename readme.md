@@ -67,7 +67,7 @@ rviz -f velodyne
 [LIO-SAM](https://github.com/TixiaoShan/LIO-SAM)
 ```
 roslaunch lio_sam run.launch
-```
+``` 
 
 <br/><br/>
 
@@ -83,7 +83,7 @@ couldn't find
 
 ## Camera Setup and Test
 ### Luxonis Oak-D Lite
-* basic SDK
+* basic SDK  
 [depthai-ros](https://github.com/luxonis/depthai-ros)  
 ```
 roslaunch depthai_examples stereo_inertial_node.launch  
@@ -92,7 +92,7 @@ roslaunch depthai_examples stereo_inertial_node.launch
 <br/><br/>
 
 ### Intel RealSense D435if
-* basic SDK
+* basic SDK  
 [realsense-ros](https://github.com/IntelRealSense/realsense-ros)  
 ```
 roslaunch realsense2_camera rs_camera.launch filters:=pointcloud  
@@ -101,15 +101,23 @@ rviz -d pointcloud.rviz    # cd ~/camera_ws/src/realsense_ws/src/realsense-ros/r
 
 <br/><br/><br/>
 
-## Result
+## Results
 ### Drive Test
 [Drive Test Vid](https://youtube.com/shorts/RyaQt4Vfwus)  
 
-### Mapping 
+### Camera data
+<img src="./images/1.png" width="600" height="200"/>  
+data with Realsense  
+<img src="./images/2.png" width="600" height="200"/>  
+data with Oak-D  
 
+<br/><br/>
 
-### Navigation
-couldn't make it
+### Lidar data
+<img src="./images/3.png" width="600" height="200"/>  
+data with VLP-16  
+<img src="./images/4.png" width="600" height="200"/>  
+mapping with VLP-16  
 
 <br/><br/><br/>
 
