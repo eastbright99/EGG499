@@ -83,6 +83,7 @@ couldn't find
 
 ## Camera Setup and Test
 ### Luxonis Oak-D Lite
+* basic SDK
 [depthai-ros](https://github.com/luxonis/depthai-ros)  
 ```
 roslaunch depthai_examples stereo_inertial_node.launch  
@@ -91,6 +92,7 @@ roslaunch depthai_examples stereo_inertial_node.launch
 <br/><br/>
 
 ### Intel RealSense D435if
+* basic SDK
 [realsense-ros](https://github.com/IntelRealSense/realsense-ros)  
 ```
 roslaunch realsense2_camera rs_camera.launch filters:=pointcloud  
