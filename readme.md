@@ -31,7 +31,7 @@ use [Rufus](https://rufus.ie/en/) to install [Ubuntu img file](https://releases.
 
 fallow the instruction to install Ubuntu on PC  
 
-after finishing Ubuntu installation, install [ROS Noetic](http://wiki.ros.org/noetic/Installation/Ubuntu) and other basic tools (vim, openssh-server, net-tools, terminator etc)  
+after finishing Ubuntu installation, install [ROS Noetic](http://wiki.ros.org/noetic/Installation/Ubuntu) and other basic tools (git, vim, openssh-server, net-tools, terminator etc)  
 
 <br/><br/><br/>
 
@@ -40,7 +40,7 @@ Depending on RoverRobotics [Setup Guide](https://roverrobotics.com/pages/compute
 
 after installation, it will automatically work after bootup  
 
-you can controll your rover with ps4 and keyboard  
+you can controll your rover with joystick and [keyboard](http://wiki.ros.org/teleop_twist_keyboard)  
 
 <br/><br/><br/>
 
