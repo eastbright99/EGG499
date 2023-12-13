@@ -40,7 +40,7 @@ Depending on RoverRobotics [Setup Guide](https://roverrobotics.com/pages/compute
 
 after installation, it will automatically work after bootup  
 
-you can controll your rover with joystick and [keyboard](http://wiki.ros.org/teleop_twist_keyboard)  
+you can controll your rover with [keyboard](http://wiki.ros.org/teleop_twist_keyboard) and joystick (need to connect controller with bluetooth)  
 
 <br/><br/><br/>
 
