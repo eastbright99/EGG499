@@ -91,7 +91,7 @@ roslaunch depthai_examples stereo_inertial_node.launch
 [realsense-ros](https://github.com/IntelRealSense/realsense-ros)  
 ```
 roslaunch realsense2_camera rs_camera.launch filters:=pointcloud  
-rviz -d pointcloud.rviz  
+rviz -d pointcloud.rviz ( cd ~/camera_ws/src/realsense_ws/src/realsense-ros/realsense2_camera/rviz )  
 ```
 
 <br/><br/><br/>
