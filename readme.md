@@ -103,7 +103,7 @@ rviz -d pointcloud.rviz    # cd ~/camera_ws/src/realsense_ws/src/realsense-ros/r
 
 ## Results
 ### Drive Test
-<img src="./images/5.png" width="600" height="200"/>  
+<img src="./images/5.png"/>  
 [Drive Test Vid](https://youtube.com/shorts/RyaQt4Vfwus)  
 
 <br/><br/>
@@ -112,18 +112,18 @@ rviz -d pointcloud.rviz    # cd ~/camera_ws/src/realsense_ws/src/realsense-ros/r
 <img src="./images/1.png" width="600" height="200"/>  
 data with Realsense
 
-<br/>  
+<br/><br/>
 
 <img src="./images/2.png" width="600" height="200"/>  
 data with Oak-D
 
-<br/><br/>
+<br/><br/><br/>
 
 ### Lidar data
 <img src="./images/3.png" width="600" height="400"/>  
 data with VLP-16
 
-<br/>
+<br/><br/>
 
 <img src="./images/4.jpg" width="600" height="400"/>  
 mapping with VLP-16
