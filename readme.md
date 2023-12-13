@@ -65,7 +65,7 @@ you can controll your rover with [keyboard](http://wiki.ros.org/teleop_twist_key
 [quanergy_client](https://github.com/QuanergySystems/quanergy_client)  
 [quanergy_client_ros](https://github.com/QuanergySystems/quanergy_client_ros)  
 
-* mapping
+* mapping  
 couldn't find
 
 <br/><br/><br/>
