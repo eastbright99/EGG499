@@ -73,9 +73,13 @@ couldn't find
 ## Camera Setup and Test
 ### Luxonis Oak-D Lite
 depthai-ros  
+roslaunch depthai_examples stereo_inertial_node.launch  
 
 ### Intel RealSense D435if
 realsense-ros
+roslaunch realsense2_camera rs_camera.launch filters:=pointcloud
+rviz -d pointcloud.rviz
+
 
 <br/><br/><br/>
 
