@@ -88,6 +88,8 @@ couldn't find
 roslaunch depthai_examples stereo_inertial_node.launch  
 ```
 
+<br/><br/>
+
 ### Intel RealSense D435if
 [realsense-ros](https://github.com/IntelRealSense/realsense-ros)  
 ```
