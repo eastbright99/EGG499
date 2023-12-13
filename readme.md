@@ -125,7 +125,7 @@ data with VLP-16
 
 <br/><br/>
 
-<img src="./images/4.jpg" width="600" height="300"/>  
+<img src="./images/4.jpg" width="600" height="350"/>  
 mapping with VLP-16
 
 <br/><br/><br/>
