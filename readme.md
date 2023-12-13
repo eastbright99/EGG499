@@ -35,7 +35,7 @@ after finishing Ubuntu installation, install [ROS Noetic](http://wiki.ros.org/no
 
 <br/><br/><br/>
 
-## Rover Setup and Test
+## Rover Setup
 Depending on RoverRobotics [Setup Guide](https://roverrobotics.com/pages/computer-setup-guide), fallow the instructions  
 
 after installation, it will automatically work after bootup  
@@ -99,10 +99,21 @@ rviz -d pointcloud.rviz    # cd ~/camera_ws/src/realsense_ws/src/realsense-ros/r
 
 <br/><br/><br/>
 
-## Assemble
+## Result
+### Drive Test
+[Drive Test Vid](https://youtube.com/shorts/RyaQt4Vfwus)  
+
+### Mapping 
+
+
+### Navigation
+couldn't make it
 
 <br/><br/><br/>
 
+## Discussion
+
+<br/><br/><br/>
 
 
 
