@@ -6,9 +6,18 @@
 * Purpose : studying based on ROS  
 * Goal : mapping and navigation with rover  
 
-## Rover
+## Resources
+### Computer
+* Intel NUC Mini PC
 
-## Lidar
+### Rover
+* Rover Robotics zero2_4WD
 
-## Camera
+### Lidar
+* Livox MID-360
+* Velodyne VLP-16
+* Quanergy M8
 
+### Camera
+* Luxonis Oak-D Lite 
+* Intel RealSense D435if
