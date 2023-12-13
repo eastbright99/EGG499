@@ -27,18 +27,18 @@
 <br/><br/><br/>
 
 ## Computer Setup
-use Rufus to install Ubuntu img file on USB
-fallow the instruction to install Ubuntu on PC
-after finishing Ubuntu installation, install ROS and other basic tools
+use Rufus to install Ubuntu img file on USB  
+fallow the instruction to install Ubuntu on PC  
+after finishing Ubuntu installation, install ROS and other basic tools  
 
 <br/><br/><br/>
 
 ## Rover Setup and Test
-Depending on RoverRobotics Setup Guide, fallow the instructions
+Depending on RoverRobotics Setup Guide, fallow the instructions  
 
-after installation, it will automatically work after bootup
+after installation, it will automatically work after bootup  
 
-you can controll your rover with ps4 and keyboard
+you can controll your rover with ps4 and keyboard  
 
 
 <br/><br/><br/>
