@@ -64,6 +64,7 @@ rviz -f velodyne
 * mapping  
 [LIO-SAM](https://github.com/TixiaoShan/LIO-SAM)
 ```
+roslaunch lio_sam run.launch
 ```
 
 ### Quanergy M8
