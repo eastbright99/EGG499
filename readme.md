@@ -57,6 +57,8 @@ you can controll your rover with [keyboard](http://wiki.ros.org/teleop_twist_key
 * basic SDK  
 [velodyne](https://github.com/ros-drivers/velodyne)  
 ```
+roslaunch velodyne_pointcloud VLP16_points.launch
+rviz -f velodyne
 ```
 
 * mapping  
