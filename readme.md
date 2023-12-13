@@ -117,10 +117,10 @@ data with Oak-D
 <br/><br/>
 
 ### Lidar data
-<img src="./images/3.png" width="600" height="200"/>  
+<img src="./images/3.png" width="600" height="400"/>  
 data with VLP-16  
 
-<img src="./images/4.jpg" width="600" height="200"/>  
+<img src="./images/4.jpg" width="600" height="400"/>  
 mapping with VLP-16  
 
 <br/><br/><br/>
