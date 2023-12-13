@@ -46,33 +46,36 @@ you can controll your rover with ps4 and keyboard
 
 ## Lidar Setup and Test
 ### Livox MID-360
-base  
+* base  
 Livox-SDK  
 livox_ros_driver  
 
-mapping  
+* mapping  
 FAST_LIO  
 
 ### Velodyne VLP-16
-base  
+* base  
 velodyne  
 
-mapping  
+* mapping  
 LIO-SAM
 
 ### Quanergy M8
-base
+* base
 quanergy_client
 quanergy_client_ros
 
-couldn't find mapping
+* mapping
+couldn't find
 
 <br/><br/><br/>
 
 ## Camera Setup and Test
 ### Luxonis Oak-D Lite
+depthai-ros  
 
 ### Intel RealSense D435if
+realsense-ros
 
 <br/><br/><br/>
 
