@@ -27,11 +27,11 @@
 <br/><br/><br/>
 
 ## Computer Setup
-use Rufus to install Ubuntu img file on USB  
+use [Rufus](https://rufus.ie/en/) to install [Ubuntu img file](https://releases.ubuntu.com/focal/) on USB  
 
 fallow the instruction to install Ubuntu on PC  
 
-after finishing Ubuntu installation, install ROS and other basic tools  
+after finishing Ubuntu installation, install [ROS Noetic](http://wiki.ros.org/noetic/Installation/Ubuntu) and other basic tools  
 
 <br/><br/><br/>
 
